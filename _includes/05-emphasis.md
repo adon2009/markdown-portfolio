@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#Programing Language: 
+
+**Below are programing language lists: **
+_Python_, C, C++, Java, SQL and Visual Basic 
+
+ 
